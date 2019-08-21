@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.querySelector("{{WIDGG_APP}}"));
+ReactDOM.render(<App />, document.querySelector('[widgg-name="test-react"][widgg-account-id="1234-5678"]'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
