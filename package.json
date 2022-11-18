@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.0",
+    "react-scripts": "5.0.1",
     "uglifyjs-webpack-plugin": "^2.2.0"
   },
   "scripts": {
@@ -34,6 +34,6 @@
   "devDependencies": {
     "mini-css-extract-plugin": "^0.8.0",
     "base64-inline-loader": "^1.1.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
